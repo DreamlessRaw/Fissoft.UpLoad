@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Dreamless</Authors>
+    <Company>www.fissoft.com</Company>
+    <Product>www.fissoft.com</Product>
+    <PackageProjectUrl>https://github.com/DreamlessRaw/Fissoft.UpLoad</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/DreamlessRaw/Fissoft.UpLoad</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
